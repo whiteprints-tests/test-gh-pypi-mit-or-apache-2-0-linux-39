@@ -64,6 +64,7 @@ changelog = "https://github.com/whiteprints-tests/test-gh-pypi-mit-or-apache-2-0
 download = "https://github.com/whiteprints-tests/test-gh-pypi-mit-or-apache-2-0-linux-39/releases"
 issues = "https://github.com/whiteprints-tests/test-gh-pypi-mit-or-apache-2-0-linux-39/issues"
 integration = "https://github.com/whiteprints-tests/test-gh-pypi-mit-or-apache-2-0-linux-39/actions"
+pypi = "https://pypi.org/project/test-gh-pypi-mit-or-apache-2-0-linux-39"
 
 [dependency-groups]
 dev = [
